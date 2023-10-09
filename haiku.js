@@ -6,10 +6,10 @@ function HaikuX(){
     console.log("hail summer's approach");
     
 }function HaikuX(){
-    console.log("haiku by:","");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("haiku by:","Sydney");
+    console.log("from time  to time clouds give rest to the moon beholders");
+    console.log("in cicadas cry sign can fortell");
+    console.log("blowing from the west fallen leaves gether in the west");
 
 }function HaikuX(){
     console.log("haiku by:","Matthijs");
