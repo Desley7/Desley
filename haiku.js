@@ -6,7 +6,7 @@ function HaikuX(){
     console.log("hail summer's approach");
     
 }function HaikuX(){
-    console.log("haiku by:","AUTHOR");
+    console.log("haiku by:","");
     console.log("REGEL1");
     console.log("REGEL2");
     console.log("REGEL3");
