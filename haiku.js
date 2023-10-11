@@ -16,12 +16,14 @@ function HaikuX(){
     console.log("I kill an ant and realize my three children have been watching");
     console.log("Over the wintry forest, winds howl in rage with no leaves to blow");
     console.log("Toward those short trees We saw a hawk descending On a day in spring");
-    
+}
+
+
 }function HaikuX(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("haiku by:","Emanuel");
+    console.log("The wren Earns his living Noiselessly.");
+    console.log("Consider me As one who loved poetry And persimmons.");
+    console.log("Blowing from the west Fallen leaves gather In the east.");
 }
 
 
